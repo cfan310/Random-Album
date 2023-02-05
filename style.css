@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+/*
+* {
+    border: 2px solid red;
+}*/
+
+.album-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 50vh;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
